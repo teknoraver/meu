@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Name=Meu
+GenericName=Playlist Editor
+GenericName[it]=Editor di playlist
+Comment=Create and edit M3U playlists
+Comment[it]=Crea e modifica playlist M3U
+Exec=meu %F
+Icon=meu
+Terminal=false
+Categories=AudioVideo;Audio;Qt;
+Keywords=m3u;playlist;
+MimeType=audio/x-mpegurl;application/vnd.apple.mpegurl;
